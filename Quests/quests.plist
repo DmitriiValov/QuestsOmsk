@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Icon</key>
+		<string>komnata</string>
+		<key>Email</key>
+		<string>contact@komnata13.ru</string>
+		<key>VK</key>
+		<string>https://vk.com/vkomnate13</string>
+		<key>Site</key>
+		<string>http://komnata13.ru</string>
+		<key>Phone</key>
+		<string>+7 (933) 302-06-07</string>
+		<key>Address</key>
+		<string>ул. Куйбышева 132</string>
+		<key>Name</key>
+		<string>Комната</string>
+		<key>Quests</key>
+		<array>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>st1</string>
+					<string>st2</string>
+					<string>st3</string>
+					<string>st4</string>
+					<string>st5</string>
+					<string>st6</string>
+				</array>
+				<key>Link</key>
+				<string>http://komnata13.ru/#sanatorium</string>
+				<key>Description</key>
+				<string>Что может быть страшнее, чем очнуться в психиатрической больнице? 
+Только оказаться в подпольной психушке, в которой ставят опыты на людях… 
+Кто врач, а кто друг? Станешь ты неуправляемым монстром или расходным материалом для нужд армии? 
+НИИ Биохимии обещает создать вакцину для солдат будущего ценой жизни сотен человек! Ты способен этому помешать! 
+Время пошло! Осталось 59 минут…</string>
+				<key>Complexity</key>
+				<string>4/5</string>
+				<key>Duration</key>
+				<string>60</string>
+				<key>Capacity</key>
+				<string>2-4</string>
+				<key>ShortName</key>
+				<string>&quot;Санаторий&quot;</string>
+				<key>Name</key>
+				<string>&quot;Санаторий&quot;</string>
+			</dict>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>mc1</string>
+					<string>mc2</string>
+					<string>mc3</string>
+					<string>mc4</string>
+					<string>mc5</string>
+					<string>mc6</string>
+					<string>mc7</string>
+				</array>
+				<key>Link</key>
+				<string>http://komnata13.ru/#minecraft</string>
+				<key>Description</key>
+				<string>Хотели бы вы оказаться внутри самой необычной из всех компьютерных игр? Ваш друг или ребенок уже прожужжал все уши про то, как это круто? Если еще нет, просто произнесите при нем слово “майнкрафт”. Идеальный баланс между логикой и чистым творчеством - вот то, чем эта игра прославилась на весь мир. И сейчас мы предлагаем вам погрузиться в нее в реальности.</string>
+				<key>Complexity</key>
+				<string>4/5</string>
+				<key>Duration</key>
+				<string>60</string>
+				<key>Capacity</key>
+				<string>2-4</string>
+				<key>ShortName</key>
+				<string>Майнкрафт</string>
+				<key>Name</key>
+				<string>Майнкрафт &quot;Кубическое приключение&quot;</string>
+			</dict>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>he1</string>
+					<string>he2</string>
+					<string>he3</string>
+					<string>he4</string>
+					<string>he5</string>
+					<string>he6</string>
+				</array>
+				<key>Link</key>
+				<string>http://komnata13.ru/#shack</string>
+				<key>Description</key>
+				<string>Вы отправляетесь в хижину старого эльфа-отшельника, где вам предстоит решить ее загадки, раскрыть все тайны и найти артефакт, который должен спасти эльфийский город! Вся надежда на Вас. Помогите эльфам!</string>
+				<key>Complexity</key>
+				<string>3/5</string>
+				<key>Duration</key>
+				<string>60</string>
+				<key>Capacity</key>
+				<string>2-4</string>
+				<key>ShortName</key>
+				<string>Хижина</string>
+				<key>Name</key>
+				<string>Эльфийская хижина</string>
+			</dict>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>bk1</string>
+					<string>bk2</string>
+					<string>bk3</string>
+					<string>bk4</string>
+					<string>bk5</string>
+				</array>
+				<key>Link</key>
+				<string>http://komnata13.ru/#bunker</string>
+				<key>Description</key>
+				<string>“Война закончилась. Однако победу праздновать некому. На месте городов теперь руины, а там, где ещё недавно играли дети, хозяйничают мародёры и мутировавшие звери. Спастиcь удалось немногим, и скоро болезни, голод и полная изоляция от внешнего мира завершат начатое. Но пока я здесь, рядом с моей семьёй, надежда есть. Мы найдём выход.”
+
+- из найденного в бункере дневника.</string>
+				<key>Complexity</key>
+				<string>3/5</string>
+				<key>Duration</key>
+				<string>60</string>
+				<key>Capacity</key>
+				<string>2-4</string>
+				<key>ShortName</key>
+				<string>Бункер</string>
+				<key>Name</key>
+				<string>Бункер &quot;Последняя надежда&quot;</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>komnata</string>
+		<key>Email</key>
+		<string>contact@komnata13.ru</string>
+		<key>VK</key>
+		<string>https://vk.com/vkomnate13</string>
+		<key>Site</key>
+		<string>http://komnata13.ru</string>
+		<key>Phone</key>
+		<string>+7 (908) 805-82-88</string>
+		<key>Address</key>
+		<string>ул. Проспект Мира, д. 3</string>
+		<key>Name</key>
+		<string>Комната (СибАДИ)</string>
+		<key>Quests</key>
+		<array>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>cube1</string>
+					<string>cube2</string>
+					<string>cube3</string>
+					<string>cube4</string>
+					<string>cube5</string>
+				</array>
+				<key>Link</key>
+				<string>http://komnata13.ru/#cube</string>
+				<key>Description</key>
+				<string>Вы попадаете в руки безумного конструктора. Он хочет проверить вас, узнать, достойны ли вы свободы. Для этого вам предстоит пройти его лабиринт из комнат, решить загадки и головоломки, чтобы открыть дверь в следующую комнату. А так же, выбраться из ловушек, что вас поджидают в Кубе. И главное, никого не потерять из своей команды, даже если поджимает время или об этом вам говорит сам конструктор! Дойдите до последней двери, которая может оказаться совсем не там, где можно ожидать. Докажите конструктору, что достойны свободы!</string>
+				<key>Complexity</key>
+				<string>4/5</string>
+				<key>Duration</key>
+				<string>60</string>
+				<key>Capacity</key>
+				<string>2-4</string>
+				<key>ShortName</key>
+				<string>Маньяк</string>
+				<key>Name</key>
+				<string>Маньяк-Конструктор (КУБ)</string>
+			</dict>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>kage1</string>
+					<string>kage2</string>
+					<string>kage3</string>
+					<string>kage4</string>
+					<string>kage5</string>
+				</array>
+				<key>Link</key>
+				<string>http://komnata13.ru/#cage</string>
+				<key>Description</key>
+				<string>Две эпохи, для двух или четырех человек, Средние века или Ацтеки! Но в какой бы из эпох вы не оказались, это не важно. Главное, что вас и вашего напарника видели на месте преступления! Вы виновны! Нет? Тогда, отправляйтесь в Клетку богов и докажите это! Особенный квест, в необычных условиях. Где каждого обвиняемого запрут в небольшой комнате, и где действия одного, могут отразиться на том, что происходит у другого. Помогайте друг другу, действием или предметами, найдя способ их передать. Откройте дверь и докажите тем самым, что вы НЕВИНОВНЫ!</string>
+				<key>Complexity</key>
+				<string>3/5</string>
+				<key>Duration</key>
+				<string>60</string>
+				<key>Capacity</key>
+				<string>2, 4</string>
+				<key>ShortName</key>
+				<string>Клетка богов</string>
+				<key>Name</key>
+				<string>Клетка богов</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>igel</string>
+		<key>Email</key>
+		<string>s111082@yandex.ru</string>
+		<key>VK</key>
+		<string>https://vk.com/igel_quest</string>
+		<key>Site</key>
+		<string>http://igel-quest.ru</string>
+		<key>Phone</key>
+		<string>28-72-62</string>
+		<key>Address</key>
+		<string>ул. Кемеровская, д. 9</string>
+		<key>Name</key>
+		<string>IGEL Квест</string>
+		<key>Quests</key>
+		<array>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>igel_pila</string>
+				</array>
+				<key>Link</key>
+				<string>http://igel-quest.ru/</string>
+				<key>Description</key>
+				<string>Единственный квест в Омске, в котором есть возможность посоревноваться друг с другом. Перед вами стоит выбор - воспользоваться этой возможностью или помогать друг другу. Как будете играть - ваше дело. Однако по ходу игры вы можете поменять свое решение. В какой-то момент судьба друзей окажется в ваши руках... выбор за вами! 
+P.S. Не смотря на название, квест абсолютно не страшный и не &quot;кровавый&quot;</string>
+				<key>Complexity</key>
+				<string>3/5</string>
+				<key>Duration</key>
+				<string>60</string>
+				<key>Capacity</key>
+				<string>2-4</string>
+				<key>ShortName</key>
+				<string>ПИЛА</string>
+				<key>Name</key>
+				<string>ПИЛА</string>
+			</dict>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>igel_6komnat</string>
+				</array>
+				<key>Link</key>
+				<string>http://igel-quest.ru/</string>
+				<key>Description</key>
+				<string>Что за квест? Прежде всего это 6 специально подготовленных комнат))) А еще - это 1,5 часа на игру, вместо стандартного часа. По многочисленным заявкам - количество участников 2-6 человек. Все двери в квесте открываются раз в пять минут на 15 секунд! В каждой комнате перед дверью вам встретится препятствие. Успеете преодолеть его за пять минут пройдете дальше, не успеете - ...
+В общем, приходите и сами все увидите!! </string>
+				<key>Complexity</key>
+				<string>5/5</string>
+				<key>Duration</key>
+				<string>90</string>
+				<key>Capacity</key>
+				<string>2-6</string>
+				<key>ShortName</key>
+				<string>ШЕСТЬ КОМНАТ</string>
+				<key>Name</key>
+				<string>ШЕСТЬ КОМНАТ</string>
+			</dict>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>igel_lov</string>
+				</array>
+				<key>Link</key>
+				<string>http://igel-quest.ru/</string>
+				<key>Description</key>
+				<string>Вместе с друзьями вы отправляетесь на поиски заброшенного дома, в котором, по слухам, проводились странные психологические эксперименты. В заброшенном здании, вы находите вход, ведущий в подвал, и, недолго думая, проникаете в него, казалось бы, что может случиться?! А может случиться, что обратного выхода нет... 
+
+Наш самый технически оснащенный квест!</string>
+				<key>Complexity</key>
+				<string>4/5</string>
+				<key>Duration</key>
+				<string>60</string>
+				<key>Capacity</key>
+				<string>2-4</string>
+				<key>ShortName</key>
+				<string>ЛОВУШКА</string>
+				<key>Name</key>
+				<string>ЛОВУШКА</string>
+			</dict>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>igel_psih</string>
+				</array>
+				<key>Link</key>
+				<string>http://igel-quest.ru/</string>
+				<key>Description</key>
+				<string>- первый квест в реальности в Омске, построенный на взаимодействии и общении. Именно это является главным условием успешного прохождения локации. Умение слушать и слышать партнеров по команде помогает решать логические задания и головоломки, находить выход из сложной ситуации значительно быстрее. Хотите сплотить команду? - Вам в &quot;Психушку&quot;! Первый раз идёте в квест, не можете определиться с выбором? - Вам в &quot;Психушку&quot;! </string>
+				<key>Complexity</key>
+				<string>3/5</string>
+				<key>Duration</key>
+				<string>60</string>
+				<key>Capacity</key>
+				<string>2-4</string>
+				<key>ShortName</key>
+				<string>ПСИХУШКА</string>
+				<key>Name</key>
+				<string>ПСИХУШКА</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>igel</string>
+		<key>Email</key>
+		<string>s111082@yandex.ru</string>
+		<key>VK</key>
+		<string>https://vk.com/igel_quest</string>
+		<key>Site</key>
+		<string>http://igel-quest.ru</string>
+		<key>Phone</key>
+		<string>28-72-62</string>
+		<key>Address</key>
+		<string>ул. Почтовая, д. 7</string>
+		<key>Name</key>
+		<string>IGEL Квест (Почтовая)</string>
+		<key>Quests</key>
+		<array>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>igel_pobeg</string>
+				</array>
+				<key>Link</key>
+				<string>http://igel-quest.ru/</string>
+				<key>Description</key>
+				<string>Новый филиал! Новый формат!
+Побег из тюрьмы-это в некотором роде эксперимент и проба нового жанра, это квест с актером, с которым Вам предстоит взаимодействовать, и при этом от него не нужно убегать. На ваши определенные действия актер будет реагировать определенным &quot;запрограммированным&quot; образом, и мы считаем, что это может лечь в основу нового жанра квестов в реальности. Ждем Вас, ваших отзывов и ... удачного побега! </string>
+				<key>Complexity</key>
+				<string>4/5</string>
+				<key>Duration</key>
+				<string>90</string>
+				<key>Capacity</key>
+				<string>2-5</string>
+				<key>ShortName</key>
+				<string>ПОБЕГ ИЗ ТЮРЬМЫ</string>
+				<key>Name</key>
+				<string>ПОБЕГ ИЗ ТЮРЬМЫ</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>izolate</string>
+		<key>Email</key>
+		<string>support@izolate55.ru</string>
+		<key>VK</key>
+		<string>https://vk.com/izolate</string>
+		<key>Site</key>
+		<string>http://izolate55.ru/</string>
+		<key>Phone</key>
+		<string>+7 (968) 103-40-39</string>
+		<key>Address</key>
+		<string>ул. Чкалова, д.40</string>
+		<key>Name</key>
+		<string>Изоляция</string>
+		<key>Quests</key>
+		<array>
+			<dict>
+				<key>Images</key>
+				<array>
+					<string>igel_pobeg</string>
+				</array>
+				<key>Link</key>
+				<string>http://igel-quest.ru/</string>
+				<key>Description</key>
+				<string>Новый филиал! Новый формат!
+Побег из тюрьмы-это в некотором роде эксперимент и проба нового жанра, это квест с актером, с которым Вам предстоит взаимодействовать, и при этом от него не нужно убегать. На ваши определенные действия актер будет реагировать определенным &quot;запрограммированным&quot; образом, и мы считаем, что это может лечь в основу нового жанра квестов в реальности. Ждем Вас, ваших отзывов и ... удачного побега! </string>
+				<key>Complexity</key>
+				<string>4/5</string>
+				<key>Duration</key>
+				<string>90</string>
+				<key>Capacity</key>
+				<string>2-5</string>
+				<key>ShortName</key>
+				<string>ПОБЕГ ИЗ ТЮРЬМЫ</string>
+				<key>Name</key>
+				<string>ПОБЕГ ИЗ ТЮРЬМЫ</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
